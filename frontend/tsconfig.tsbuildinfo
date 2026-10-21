@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/CandleChart.tsx","./src/components/SignalCard.tsx","./src/components/panels.tsx","./src/lib/api.ts","./src/lib/format.test.ts","./src/lib/format.ts"],"version":"5.9.3"}
